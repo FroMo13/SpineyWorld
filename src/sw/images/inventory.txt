@@ -1,0 +1,12 @@
+#OBJ_NAME|FRAME_NO|FILENAME
+DEAD|1|dead.gif
+SLEEP|1|sleep.gif
+HUNT|1|hunt.gif
+FIN|1|fin.gif
+WINGL|1|wingl.gif
+WINGR|1|wingr.gif
+FEET|1|feet.gif
+GRAZE|1|graze.gif
+DEFAULT|1|default.gif
+BLUE|1|blue.gif
+YELLOW|1|yellow.gif
